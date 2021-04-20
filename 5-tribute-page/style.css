@@ -1,0 +1,19 @@
+body {
+  background-color: steelblue;
+}
+
+#img-div {
+  width: 100%;
+}
+
+#image {
+  width: 40%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+#img-caption {
+  width: 400px;
+}
+
